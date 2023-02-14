@@ -1,0 +1,102 @@
+p.error_message{
+    background: #e98585;
+    color: white;
+    padding: 10px;
+}
+
+p.info{
+    background: #6dba75;
+    color: white;
+    padding: 10px;
+}
+
+p.credentials{
+    background: #e19e32;
+    color: white;
+    padding: 10px;
+}
+
+
+.errormessage{
+    margin: 20px 0;
+    color: white;
+    background: #e98585;
+    padding: 10px;
+}
+
+
+.btn.btn-primary.btn-block.btn-login {
+    background: rgb(71, 79, 171);
+    border-width: 0px;
+  }
+  
+  .btn.btn-primary.btn-block.btn-login:hover {
+    background-color: #7075fb;
+  }
+
+
+
+section{
+  display: block;
+  margin-top: 50px;
+}
+
+//progressbars
+.card {
+  border: none;
+  border-radius: 10px
+}
+
+.c-details span {
+  font-weight: 300;
+  font-size: 13px
+}
+
+.icon {
+  width: 50px;
+  height: 50px;
+  background-color: #eee;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 39px
+}
+
+.badge span {
+  background-color: #fffbec;
+  width: 60px;
+  height: 25px;
+  padding-bottom: 3px;
+  border-radius: 5px;
+  display: flex;
+  color: #fed85d;
+  justify-content: center;
+  align-items: center
+}
+
+.progress {
+  height: 10px;
+  border-radius: 10px
+}
+
+.progress div {
+  background-color: #325ea8
+}
+
+.text1 {
+  font-size: 14px;
+  font-weight: 600
+}
+
+.text2 {
+  color: #a5aec0
+}
+
+.heading{
+ 
+  
+}
+
+
+
